@@ -1,0 +1,4 @@
+# Messages
+QUEUE-MESSAGE: "&fYou have joined the &e%server% &fserver queue with %rank% &fpriority."
+QUEUE-LEAVE-MESSAGE: "&fYou have left the &e%server% &fserver queue."
+QUEUE-SERVER-JOIN-MESSAGE: "&fYou are joining the &e%server% &fserver."

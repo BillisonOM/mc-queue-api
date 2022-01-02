@@ -1,0 +1,8 @@
+donor:
+  display: "&aDonor"
+  priority: 1 # Highest priority
+  permission: "ranks.donor"
+default:
+  display: "&fDefault"
+  priority: 100 # Lowest priority
+  permission: "ranks.default"

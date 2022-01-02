@@ -1,0 +1,5 @@
+main: org.jefferies.queue.QueuePlugin
+version: ${project.version}
+author: Billison#5113
+name: ${project.name}
+description: ${project.description}
