@@ -2,7 +2,7 @@
 Import the library jar into your project and on your server for full effects
 
 ### Why use this? 
-Well there is the the option make random queues via the OtherQueue class, just pass it a QueueEndPoint and it'll do what you want. It provides a simple priority system, with the option to get player join dates to form an elapsed player queue time. Maybe post my 'friends' system soon idk... 
+Well there is the the option make random queues via the OtherQueue class, just pass it a QueueEndPoint and it'll do what you want. It provides a simple priority system, with the option to get player join dates to form an elapsed player queue time.
 
 ### How to initialize
 ```java
@@ -19,3 +19,5 @@ Well there is the the option make random queues via the OtherQueue class, just p
         hub.remove(player);
     }
 ```
+
+Might post my 'friends' system soon idk... 
